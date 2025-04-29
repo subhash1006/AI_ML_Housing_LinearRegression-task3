@@ -2,7 +2,7 @@
 📄 Project Description
 This project applies a Linear Regression model to predict housing prices based on various features in a dataset. The dataset includes variables such as area, bedrooms, bathrooms, furnishing status, etc. The goal is to build, evaluate, and visualize a regression model's performance.
 
-📚 Technologies Used
+📚 Technologies Used :
 Python
 
 Pandas
@@ -13,7 +13,7 @@ Matplotlib
 
 Scikit-learn
 
-🛠️ Steps Performed
+🛠️ Steps Performed :
 Import Libraries: Imported required Python libraries.
 
 Load Dataset: Loaded Housing.csv dataset into a Pandas DataFrame.
@@ -36,14 +36,16 @@ Evaluation: Evaluated the model using Mean Absolute Error (MAE), Mean Squared Er
 
 Visualization: Plotted actual vs predicted housing prices.
 
-📈 Model Evaluation Metrics
+📈 Model Evaluation Metrics : 
+
 Mean Absolute Error (MAE): Measures average magnitude of errors.
 
 Mean Squared Error (MSE): Measures the average squared difference between actual and predicted values.
 
 R² Score: Indicates how well data points fit the model.
 
-📊 Result Visualization
+📊 Result Visualization:
+
 Scatter plot of Actual vs Predicted Prices.
 
 Line showing perfect prediction for comparison.
